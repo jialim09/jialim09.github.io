@@ -54,9 +54,9 @@ If I had to name one design principle that this model captures best, it's moveme
 Movement in design doesn't require anything to actually move. It's about creating a path for the eye and a sense of rhythm across the form. The spiral does exactly that — it's a shape that, by its very nature, is always going somewhere.
 
 
-![Screenshot 2025-02-15 at 2 53 25 PM](https://github.com/user-attachments/assets/6c368272-f972-4689-8dd9-4aaa729ae335)
 
 
+<img width="751" height="618" alt="Screenshot 2026-05-10 at 11 03 05 PM" src="https://github.com/user-attachments/assets/093674bd-4f45-4f7f-ac28-06f91db6d9d4" />
 
 
 
