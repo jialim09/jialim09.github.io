@@ -1,7 +1,7 @@
 ---
 date: 2025-2-15 12:26:40
 layout: post
-title: "Alpha Factor Investment Strategy"
+title: "Robotics"
 subtitle: "Quantitative Edge: Building Alpha-Generating Trading Systems"
 description: "Quantitative Edge: Building Alpha-Generating Trading Systems"
 image: /assets/img/alpha.png
@@ -18,15 +18,6 @@ author: Rachael
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
-In this project, I dove into a deep exploration of quantitative trading strategies with a primary focus on alpha generation. The core of the project was to contrust a robust trading system that leverages advanced statistical models and machine learning techniques to uncover and exploit predictive signals in financial markets. This involved defininig a liquid universe of stocks, performinig intrincate factor analysis, and employing optimization algorithms to refine the trading strategies. 
-
-The project workflow is comprised of these distinct stages:
-1. Universe Data Collection
-2. Alpha Factors
-3. Factor Analysis
-4. Factors Combination
-5. Optimized Alpha Vector Portfolio
-6. Conclusions for Intraday Trading
 
 
 In this context, we have used different source of data provided from Sharadar and IFT as described below:
