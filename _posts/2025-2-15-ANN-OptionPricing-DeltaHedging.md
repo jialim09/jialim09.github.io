@@ -4,8 +4,8 @@ layout: post
 title: Neo-Futuristic Model
 subtitle: Where Art Meets Engineering
 description:  Where Art Meets Engineering
-image: /assets/img/ANN.jpeg
-optimized_image: /assets/img/ANN.jpeg
+image: /assets/img/neo.png
+optimized_image: /assets/img/neo.png
 category: Engineering
 tags:
   - Engineering
