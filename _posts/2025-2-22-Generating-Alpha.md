@@ -4,8 +4,8 @@ layout: post
 title: "Robotics"
 subtitle: "A Robotics & Programming Journey"
 description: "A Robotics & Programming Journey"
-image: /assets/img/alpha.png
-optimized_image: /assets/img/alpha.png
+image: /assets/img/robot.png
+optimized_image: /assets/img/robot.png
 category: Robotics
 tags:
   - Robotics
