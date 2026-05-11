@@ -14,6 +14,7 @@ tags:
 
 author: Jia Lim
 ---
+
 <h3 class="toc_title">Neo-Futuristic Model: Where Art Meets Engineering</h3>
 
 For this project, I built a physical architectural model inspired by the Neo-Futuristic design movement — a style defined by bold, dynamic forms, advanced materials, and the seamless blending of art and engineering. Here's a look at what I made, how I made it, and why this style resonates with me.
@@ -47,7 +48,7 @@ A model this abstract might seem purely aesthetic, but Neo-Futuristic design act
 
 **Performance and Sustainability** — Lattice envelopes — like the mesh wrapping on my model — aren't just decorative. In real architecture, they reduce structural weight, allow for better airflow, and can be engineered to optimize natural daylight. And the LEDs I used mirror a broader truth in building design: energy-efficient lighting systems can dramatically reduce a structure's environmental footprint while still creating atmosphere and beauty.
 
-<h3 class="toc_title">Design Principal: Moevmentyle</h3>
+<h3 class="toc_title">Design Principal: Movement</h3>
 
 If I had to name one design principle that this model captures best, it's movement. Even though the sculpture is completely still, your eye travels — upward along the spiral, in and out through the layers of mesh, around the rings as their diameters shift from wide to narrow. The LED light reinforces this by drawing your gaze toward bright spots and casting soft shadows in between.
 
