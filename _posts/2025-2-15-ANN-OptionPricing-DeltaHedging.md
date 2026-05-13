@@ -1,7 +1,7 @@
 ---
 date: 2025-01-14 12:26:40
 layout: post
-title: Engineering
+title: Neo Futuristic 
 permalink: /engineering/
 subtitle: Where Art Meets Engineering
 description:  Where Art Meets Engineering
@@ -10,16 +10,16 @@ optimized_image: /assets/img/neo.png
 category: Engineering
 tags:
   - Architecture
+  - Engineering
   - Art
   - Project
 
 author: Jia Lim
 ---
 
-<h3 class="toc_title">1. Neo-Futuristic</h3>
+<img width="125" height="172" alt="neofuturistic Capture" src="https://github.com/user-attachments/assets/04e9ebfb-4bf1-4da6-9013-6b0c212cdb94" />
 
 For this project, I built a physical architectural model inspired by the Neo-Futuristic design movement — a style defined by bold, dynamic forms, advanced materials, and the seamless blending of art and engineering. Here's a look at what I made, how I made it, and why this style resonates with me.
-
 
 
 <h3 class="toc_title">The Model</h3>
