@@ -1,16 +1,41 @@
 ---
 date: 2025-01-14 12:26:40
 layout: post
-title: Neo-Futuristic Model
+title: Engineering
+permalink: /engineering/
 subtitle: Where Art Meets Engineering
 description:  Where Art Meets Engineering
 image: /assets/img/neo.png
 optimized_image: /assets/img/neo.png
 category: Engineering
 tags:
-  - Engineering
+  - Architecture
   - Art
   - Project
+  - 
+## Staple city 
+{% for post in site.posts %}
+  {% if post.category == "Engineering" and post.tags contains "Staple city" %}
+    - [{{ post.title }}]({{ post.url | relative_url }})  
+      {{ post.subtitle }}
+  {% endif %}
+{% endfor %}
+
+## Biomimicry Project
+{% for post in site.posts %}
+  {% if post.category == "Engineering" and post.tags contains "Biomimicry Project" %}
+    - [{{ post.title }}]({{ post.url | relative_url }})  
+      {{ post.subtitle }}
+  {% endif %}
+{% endfor %}
+
+## Neo-futuristic Mode
+{% for post in site.posts %}
+  {% if post.category == "Engineering" and post.tags contains "Neo-futuristic Mode" %}
+    - [{{ post.title }}]({{ post.url | relative_url }})  
+      {{ post.subtitle }}
+  {% endif %}
+{% endfor %}
 
 author: Jia Lim
 ---
