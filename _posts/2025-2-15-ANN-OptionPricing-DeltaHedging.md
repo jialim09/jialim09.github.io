@@ -5,8 +5,9 @@ title: Neo Futuristic
 permalink: /engineering/
 subtitle: Where Art Meets Engineering
 description:  Where Art Meets Engineering
-image: /assets/img/neo.png
-optimized_image: /assets/img/neo.png
+image: <img width="178" height="340" alt="engCapture" src="https://github.com/user-attachments/assets/fd2178b5-5b99-46d0-86f1-47972f5bcef8" />
+optimized_image: <img width="178" height="340" alt="engCapture" src="https://github.com/user-attachments/assets/cf6ee68d-a10f-48ef-bed3-e7d89eb47daf" />
+
 category: Engineering
 tags:
   - Architecture
