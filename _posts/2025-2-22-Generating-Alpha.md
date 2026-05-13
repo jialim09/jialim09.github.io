@@ -74,3 +74,21 @@ This project was the most exciting to build because it felt like a real autonomo
 Building this code library taught me so much — from basic functions and loops, to animation logic using variables and while loops, to multithreading and sensor-driven decision-making. Looking back at Project 1 versus Project 4, it's wild to see how much more complex and creative the code became over time. I'm really proud of what I built, and I can't wait to keep learning!
 
 
+
+<img width="238" height="178" alt="Screenshot 2026-05-12 at 11 01 59 PM" src="https://github.com/user-attachments/assets/e3204780-b46a-4105-b6c0-2ab90837cb0d" />
+
+<img width="204" height="150" alt="Screenshot 2026-05-12 at 11 02 16 PM" src="https://github.com/user-attachments/assets/64b96998-a2f8-4fb5-95b5-80441f8678d1" />
+
+<img width="263" height="148" alt="Screenshot 2026-05-12 at 11 02 07 PM" src="https://github.com/user-attachments/assets/f95d9228-cf58-4105-8613-671bc6113dbf" />
+
+<img width="208" height="155" alt="Screenshot 2026-05-12 at 11 02 35 PM" src="https://github.com/user-attachments/assets/49537429-d41c-47ba-bea4-2f5f6f0c304e" />
+
+<img width="204" height="150" alt="Screenshot 2026-05-12 at 11 02 26 PM" src="https://github.com/user-attachments/assets/65529d41-a853-49ff-95bc-8a6873e169de" />
+
+<img width="202" height="262" alt="Screenshot 2026-05-12 at 11 02 52 PM" src="https://github.com/user-attachments/assets/318e3d83-6b19-461f-8e0b-eb7ae2f43bbe" />
+
+<img width="254" height="452" alt="Screenshot 2026-05-12 at 11 03 07 PM" src="https://github.com/user-attachments/assets/c1e85108-44db-4328-9665-27dcee1b7ebb" />
+
+
+
+
