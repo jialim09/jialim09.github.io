@@ -16,7 +16,7 @@ tags:
 author: Jia Lim
 ---
 
-<h3 class="toc_title">Neo-Futuristic Model: Where Art Meets Engineering</h3>
+<h3 class="toc_title">1. Neo-Futuristic</h3>
 
 For this project, I built a physical architectural model inspired by the Neo-Futuristic design movement — a style defined by bold, dynamic forms, advanced materials, and the seamless blending of art and engineering. Here's a look at what I made, how I made it, and why this style resonates with me.
 
