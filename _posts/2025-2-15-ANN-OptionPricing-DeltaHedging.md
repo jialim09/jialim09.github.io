@@ -12,7 +12,7 @@ tags:
   - Architecture
   - Art
   - Project
-  - 
+    
 ## Staple city 
 {% for post in site.posts %}
   {% if post.category == "Engineering" and post.tags contains "Staple city" %}
