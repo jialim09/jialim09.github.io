@@ -2,7 +2,6 @@
 date: 2025-01-14 12:26:40
 layout: post
 title: Neo Futuristic 
-permalink: /engineering/
 subtitle: Where Art Meets Engineering
 description:  Where Art Meets Engineering
 image: <img width="178" height="340" alt="engCapture" src="https://github.com/user-attachments/assets/fd2178b5-5b99-46d0-86f1-47972f5bcef8" />
