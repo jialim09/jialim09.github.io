@@ -75,7 +75,6 @@ Building this code library taught me so much — from basic functions and loops,
 
 
 
-<img width="238" height="178" alt="Screenshot 2026-05-12 at 11 01 59 PM" src="https://github.com/user-attachments/assets/e3204780-b46a-4105-b6c0-2ab90837cb0d" />
 
 <img width="204" height="150" alt="Screenshot 2026-05-12 at 11 02 16 PM" src="https://github.com/user-attachments/assets/64b96998-a2f8-4fb5-95b5-80441f8678d1" />
 
@@ -85,9 +84,7 @@ Building this code library taught me so much — from basic functions and loops,
 
 <img width="204" height="150" alt="Screenshot 2026-05-12 at 11 02 26 PM" src="https://github.com/user-attachments/assets/65529d41-a853-49ff-95bc-8a6873e169de" />
 
-<img width="202" height="262" alt="Screenshot 2026-05-12 at 11 02 52 PM" src="https://github.com/user-attachments/assets/318e3d83-6b19-461f-8e0b-eb7ae2f43bbe" />
 
-<img width="254" height="452" alt="Screenshot 2026-05-12 at 11 03 07 PM" src="https://github.com/user-attachments/assets/c1e85108-44db-4328-9665-27dcee1b7ebb" />
 
 
 
